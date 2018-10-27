@@ -1,0 +1,9 @@
+/* Navigation.css */
+
+.navigation {
+    flex-basis: 20%;
+    min-width: 300px;
+    padding: 40px;
+    border-right: 1px solid #2c3e7d;
+    background: #0d1940;
+  }
